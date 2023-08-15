@@ -1,3 +1,32 @@
 {
-    
+    "greekWords": [
+        {
+            "id": 0,
+            "strongNumber": "5013",
+            "word": "tapaienoo",
+            "meaning": "humble",
+            "concordance": "to fully depend on"
+        },
+        {
+            "id": "",
+            "strongNumber": "",
+            "word": "",
+            "meaning":"",
+            "concordance": ""
+        },
+        {
+            "id": 2,
+            "strongNumber": "",
+            "word": "akulutheo",
+            "meaning":"to follow",
+            "concordance": "to pivot your attention from one object to another" 
+        },
+        {
+            "id": 3,
+            "strongNumber": "",
+            "word": "huparcho",
+            "meaning":"possessions",
+            "concordance": "the object that defines your existence"
+        }
+    ]
 }
